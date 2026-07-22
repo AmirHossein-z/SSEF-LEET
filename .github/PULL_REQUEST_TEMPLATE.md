@@ -1,0 +1,17 @@
+## Summary / خلاصه
+
+- Week / هفته:
+- Member folder / پوشه عضو: `Members/<github-username>/`
+- Language / زبان:
+
+## Checklist / چک‌لیست
+
+- [ ] Changes are only under my own `Members/` folder (unless this PR adds/updates a problem)  
+      تغییرات فقط داخل پوشه خودم است (مگر اینکه PR مربوط به افزودن/به‌روزرسانی سوال باشد)
+- [ ] Included `README.md` for the solution / فایل `README.md` برای راه‌حل اضافه شده
+- [ ] Referenced the correct week under `Problems/` / هفته درست زیر `Problems/` مشخص است
+
+## Notes for reviewers / یادداشت برای ریویورها
+
+<!-- Optional: complexity, edge cases, questions -->
+<!-- اختیاری: پیچیدگی، موارد خاص، سوالات -->

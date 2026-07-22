@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Build / binaries (keep source only)
+*.o
+*.exe
+*.class
+*.out
+
+# Env / secrets
+.env
+.env.*
+*.pem
