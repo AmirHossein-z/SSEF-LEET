@@ -41,8 +41,8 @@
 
 مثال‌ها:
 
-- `feat(soohimi): Week-01 Two Sum`
-- `fix(sara): Week-02 Valid Parentheses`
+- `feat(soohimi): Week-01 Fizz Buzz`
+- `fix(sara): Week-01 Fizz Buzz`
 
 ترجیحاً هر PR مربوط به **یک هفته** باشه تا ریویو سریع‌تر انجام بشه.
 
@@ -97,8 +97,8 @@ If you don’t have direct write access: Fork → change → PR into this repo.
 
 Examples:
 
-- `feat(soohimi): Week-01 Two Sum`
-- `fix(sara): Week-02 Valid Parentheses`
+- `feat(soohimi): Week-01 Fizz Buzz`
+- `fix(sara): Week-01 Fizz Buzz`
 
 Prefer **one week per PR** when possible.
 

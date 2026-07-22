@@ -28,8 +28,7 @@ SSEF-LEET/
 ├── LICENSE
 ├── Problems/          # سوال‌های هفتگی (فقط ادمین)
 │   └── 2026/
-│       ├── Week-01-Two-Sum/
-│       └── Week-02-Valid-Parentheses/
+│       └── Week-01-Fizz-Buzz/
 ├── Members/           # جواب‌های اعضا
 ├── Templates/         # قالب README
 └── .github/           # قالب Issue و Pull Request
@@ -44,7 +43,7 @@ SSEF-LEET/
 ```text
 Problems/
 └── 2026/
-    └── Week-01-Two-Sum/
+    └── Week-01-Fizz-Buzz/
 ```
 
 داخل هر فولدر معمولاً این موارد وجود داره:
@@ -181,8 +180,7 @@ SSEF-LEET/
 ├── LICENSE
 ├── Problems/          # Weekly problems (admins only)
 │   └── 2026/
-│       ├── Week-01-Two-Sum/
-│       └── Week-02-Valid-Parentheses/
+│       └── Week-01-Fizz-Buzz/
 ├── Members/           # Member solutions
 ├── Templates/         # README templates
 └── .github/           # Issue & Pull Request templates
@@ -195,7 +193,7 @@ Weekly challenges live here. Each week gets its own folder, for example:
 ```text
 Problems/
 └── 2026/
-    └── Week-01-Two-Sum/
+    └── Week-01-Fizz-Buzz/
 ```
 
 A typical week folder includes the statement, LeetCode link, difficulty, constraints, examples, and optional hints.
